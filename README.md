@@ -1,4 +1,4 @@
-# Glados AI simulated computer system
+# Glados AI computer system
 
 ![alt tag](https://raw.githubusercontent.com/fsiamp/glados/master/glados.png)
 
